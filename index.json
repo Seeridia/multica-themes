@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T09:35:04.498Z",
+  "generated_at": "2026-11-16T20:26:06.077Z",
   "themes": [
     {
       "id": "linen",
@@ -104,18 +104,18 @@
         "light",
         "dark"
       ],
-      "version": "1.0.3",
-      "tag": "v1.0.3",
+      "version": "1.0.4",
+      "tag": "v1.0.4",
       "package": {
-        "url": "https://github.com/lthero-big/multica-theme-atelier/releases/download/v1.0.3/theme.zip",
-        "sha256": "eb26bb28b577d0494bfd42ba87edb8ebcbb1e9d4c94e398d42b9fe7edee244a5",
-        "size": 5996
+        "url": "https://github.com/lthero-big/multica-theme-atelier/releases/download/v1.0.4/theme.zip",
+        "sha256": "650f94e416e516c28a2650db3ae37a46d20f480f39329e7c669ffc7294d6027c",
+        "size": 5923
       },
       "screenshots": {
         "light": "screenshots/atelier/light-a6ad694cd11c.png",
         "dark": "screenshots/atelier/dark-7381f5993a8b.png"
       },
-      "updated_at": "2026-11-13T12:38:42Z"
+      "updated_at": "2026-11-16T10:08:28Z"
     },
     {
       "id": "mavericks",
