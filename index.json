@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-15T21:46:04.225Z",
+  "generated_at": "2026-11-16T09:35:04.498Z",
   "themes": [
     {
       "id": "linen",
@@ -66,8 +66,8 @@
         "size": 33902
       },
       "screenshots": {
-        "light": "screenshots/ms-dos/light-74a845ad60ab.png",
-        "dark": "screenshots/ms-dos/dark-2fd07cfe8811.png"
+        "light": "screenshots/ms-dos/light-e8ee57305b22.png",
+        "dark": "screenshots/ms-dos/dark-af4ed734da28.png"
       },
       "updated_at": "2026-11-11T05:47:24Z"
     },
