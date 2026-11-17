@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T13:56:32.489Z",
+  "generated_at": "2026-11-17T21:48:57.906Z",
   "themes": [
     {
       "id": "linen",
@@ -150,18 +150,18 @@
         "light",
         "dark"
       ],
-      "version": "1.1.0",
-      "tag": "v1.1.0",
+      "version": "1.1.1",
+      "tag": "v1.1.1",
       "package": {
-        "url": "https://github.com/zwmmm/multica-vitesse/releases/download/v1.1.0/theme.zip",
-        "sha256": "1dabb24db95d6724f94767bfa1c3ca55aa368fe15ec920d1721269fec1ac6095",
-        "size": 2458
+        "url": "https://github.com/zwmmm/multica-vitesse/releases/download/v1.1.1/theme.zip",
+        "sha256": "e3799eee40e87a70b5ff3875a1d53b7bfd3d1210229b6f04e066f8debb06db42",
+        "size": 2460
       },
       "screenshots": {
         "light": "screenshots/vitesse/light-d7960d3a911f.png",
         "dark": "screenshots/vitesse/dark-a9d6b73db9b5.png"
       },
-      "updated_at": "2026-11-16T12:39:53Z"
+      "updated_at": "2026-11-17T14:46:07Z"
     }
   ]
 }
