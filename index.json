@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T21:48:57.906Z",
+  "generated_at": "2026-11-18T17:23:45.760Z",
   "themes": [
     {
       "id": "linen",
@@ -162,6 +162,29 @@
         "dark": "screenshots/vitesse/dark-a9d6b73db9b5.png"
       },
       "updated_at": "2026-11-17T14:46:07Z"
+    },
+    {
+      "id": "fatfish-deepsea",
+      "name": "大肥鱼 · 深海",
+      "author": "音不绝",
+      "repo": "l1155665/fatfish-deepsea-theme",
+      "description": "Ocean depth for Multica: sunlit shallows in light mode, a glowing deep sea in dark mode, frosted water-glass panels, and a chubby blue-haired whale girl keeping the bottom-right corner without ever covering text.",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "version": "0.1.0",
+      "tag": "0.1.0",
+      "package": {
+        "url": "https://github.com/l1155665/fatfish-deepsea-theme/releases/download/0.1.0/theme.zip",
+        "sha256": "027e21a228c4f354cb4207b82e7745c8c29d0e0b74a9641678b8e2c5bdc986d2",
+        "size": 186824
+      },
+      "screenshots": {
+        "light": "screenshots/fatfish-deepsea/light-05ea7c8e6a8f.png",
+        "dark": "screenshots/fatfish-deepsea/dark-831eb23df1f9.png"
+      },
+      "updated_at": "2026-11-18T01:50:04Z"
     }
   ]
 }
