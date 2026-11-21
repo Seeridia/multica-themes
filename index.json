@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T01:29:34.223Z",
+  "generated_at": "2026-11-21T09:00:56.978Z",
   "themes": [
     {
       "id": "linen",
@@ -185,6 +185,29 @@
         "dark": "screenshots/fatfish-deepsea/dark-6494f2b35310.png"
       },
       "updated_at": "2026-11-18T01:50:04Z"
+    },
+    {
+      "id": "braun",
+      "name": "Braun",
+      "author": "gooyoung",
+      "repo": "gooyoung/multica-theme-braun",
+      "description": "An industrial Multica theme with porcelain and graphite panels, olive selection, and brick-red primary controls.",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "version": "1.2.7",
+      "tag": "v1.2.7",
+      "package": {
+        "url": "https://github.com/gooyoung/multica-theme-braun/releases/download/v1.2.7/theme.zip",
+        "sha256": "d0e6f188e04b3e563e3a9a769ecdba5ceef933b46bfc00c91ad17a91b702bc21",
+        "size": 30599
+      },
+      "screenshots": {
+        "light": "screenshots/braun/light-4848c35b4ba1.png",
+        "dark": "screenshots/braun/dark-5da13f3fb7c4.png"
+      },
+      "updated_at": "2026-11-20T08:54:52Z"
     }
   ]
 }
