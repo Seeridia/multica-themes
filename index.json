@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-21T09:00:56.978Z",
+  "generated_at": "2026-11-21T09:42:06.228Z",
   "themes": [
     {
       "id": "linen",
@@ -208,6 +208,29 @@
         "dark": "screenshots/braun/dark-5da13f3fb7c4.png"
       },
       "updated_at": "2026-11-20T08:54:52Z"
+    },
+    {
+      "id": "fathom",
+      "name": "Fathom",
+      "author": "Jiayuan Zhang",
+      "repo": "forrestchang/multica-theme-fathom",
+      "description": "Deep-ocean blue: an ocean frame with a pixel-art sea, spruce on the shore and sails along the bottom bar, white pages, navy terminal code blocks, and a night sea with a glowing moon in dark mode.",
+      "modes": [
+        "light",
+        "dark"
+      ],
+      "version": "2.0.0",
+      "tag": "v2.0.0",
+      "package": {
+        "url": "https://github.com/forrestchang/multica-theme-fathom/releases/download/v2.0.0/theme.zip",
+        "sha256": "850694ca538c3ffc7a8664d19d16e3cd0065ae0149b0294b4554079d6ef8d8ba",
+        "size": 64019
+      },
+      "screenshots": {
+        "light": "screenshots/fathom/light-20cccf025484.png",
+        "dark": "screenshots/fathom/dark-5767db822344.png"
+      },
+      "updated_at": "2026-11-21T09:38:48Z"
     }
   ]
 }
