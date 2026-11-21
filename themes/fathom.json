@@ -1,0 +1,8 @@
+{
+  "id": "fathom",
+  "name": "Fathom",
+  "author": "Jiayuan Zhang",
+  "repo": "forrestchang/multica-theme-fathom",
+  "description": "Deep-ocean blue: an ocean frame with a pixel-art sea, spruce on the shore and sails along the bottom bar, white pages, navy terminal code blocks, and a night sea with a glowing moon in dark mode.",
+  "modes": ["light", "dark"]
+}
